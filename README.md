@@ -1,1 +1,1 @@
-# Android project template
+# Android project datastore
